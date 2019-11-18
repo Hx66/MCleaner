@@ -1,5 +1,5 @@
 # MCleaner
-This bash script made for the purpose of cleaning macOS, it will clean:
+This bash script has been made for the purpose of cleaning macOS. The script will clean the following:
 * Cache logs
 * Chrome
 * Firefox
